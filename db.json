@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "tarea": "Acabar deberes de Javascript",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "25/12/2022",
+      "status": 1,
+      "id": 3
+    },
+    {
+      "tarea": "Terminar PHP",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "30/12/2022",
+      "status": 1,
+      "id": 5
+    },
+    {
+      "tarea": "Fregar los platos",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "31/12/2022",
+      "status": 0,
+      "id": 6
+    },
+    {
+      "tarea": "Limpiar ordenador",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "31/12/2022",
+      "status": 0,
+      "id": 7
+    },
+    {
+      "tarea": "Llevar de paseo al perro",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "17/12/2022",
+      "status": 0,
+      "id": 8
+    },
+    {
+      "tarea": "Terminar el proyecto de Javascript",
+      "fechaInicio": "17/12/2022",
+      "fechaFinish": "19/12/2022",
+      "status": 0,
+      "id": 9
+    }
+  ]
+}
